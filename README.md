@@ -1,10 +1,10 @@
 Hi 👋 My name is Soham Bamane
 =============================
 
-Full Stack Developer
+Web Developer
 --------------------
 
-a seasoned full stack developer with over 1+ year of expertise creating digital miracles. From creating visually appealing user interfaces to developing powerful back-end structures, I specialize in bringing your idea to life. With a love for developing seamless digital experiences and a knack for problem solving, I thrive on transforming difficult problems into elegant solutions. Let's work together to turn your ideas into exceptional digital reality!
+a seasoned web developer with over 1+ year of expertise creating digital miracles. From creating visually appealing user interfaces to developing powerful back-end structures, I specialize in bringing your idea to life. With a love for developing seamless digital experiences and a knack for problem solving, I thrive on transforming difficult problems into elegant solutions. Let's work together to turn your ideas into exceptional digital reality!
 
 * 🌍  I'm based in Maharashtra, India
 * ✉️  You can contact me at [codeminer29@gmail.com](mailto:codeminer29@gmail.com)
